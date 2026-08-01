@@ -24,7 +24,7 @@ end)
 
 -- Font settings
 config.font = wezterm.font("JetBrains Mono")
-config.font_size = 19.0
+config.font_size = 16.0
 
 -- Keybinds
 config.keys = {
